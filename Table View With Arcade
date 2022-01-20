@@ -1,0 +1,41 @@
+<br /><br />
+<div style="padding:5px;background-color:rgb(251,183,46)"><b>Dataset Information</b></div>
+<table style="width:100%;">
+  <tbody>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Name</b></td>
+    <td style="border:0.5px solid rgb(215,215,215)">{country}<br /></td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Status</b>
+	</td><td style="border:0.5px solid rgb(215,215,215)">{status}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Most Recent Edition</b></td><td style="border:0.5px solid rgb(215,215,215)">{edition}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Date published</b><b><br /></b></td><td style="border:0.5px solid rgb(215,215,215)">{date}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Nato Levels</b></td>
+	<td style="border:0.5px solid rgb(215,215,215)"><font color="#ba55d3">{nato_levels}</font><br /></td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Dataset Classification</b><b><br /></b></td><td style="border:0.5px solid rgb(215,215,215)">{dataset_classification}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Dataset File size</b><b><br /></b></td><td style="border:0.5px solid rgb(215,215,215)">{dataset_size}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Geostore File size</b><b><br /></b></td><td style="border:0.5px solid rgb(215,215,215)">{geostore_size}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Dataset File Structure</b><b><br /></b></td><td style="border:0.5px solid rgb(215,215,215)">{file_structure}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Geolist Present</b><b><br /></b></td><td style="border:0.5px solid rgb(215,215,215)">{geolist}</td> 
+  </tr>
+<tr>
+    <td style="border:0.5px solid rgb(215,215,215)"><b>Assessment Report present</b><b><br /></b></td><td style="border:0.5px solid rgb(215,215,215)">{assessment_report}</td> 
+  </tr>
+</tbody></table>
